@@ -1,0 +1,15 @@
+.name-input {
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+    margin: 0px 2px 0px 2px;
+    
+}
+
+.name-input input {
+    border-radius: 5px;
+    margin-left: 1px;
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}

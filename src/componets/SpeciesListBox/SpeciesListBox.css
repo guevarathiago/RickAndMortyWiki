@@ -1,0 +1,13 @@
+.species-list{
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+   
+   
+}
+
+.species-list select{
+    padding-top: 10px;
+    font-size: 20px;
+   
+}

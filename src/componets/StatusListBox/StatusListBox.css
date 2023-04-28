@@ -1,0 +1,13 @@
+.listBox{
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+   
+   
+}
+
+.listBox select{
+    padding-top: 10px;
+    font-size: 20px;
+   
+}

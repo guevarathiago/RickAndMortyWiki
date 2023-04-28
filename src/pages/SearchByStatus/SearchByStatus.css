@@ -1,0 +1,10 @@
+.listbox {
+    margin-top: 50px;
+}
+
+.listbox select {
+  margin-bottom: -50px;
+    display: flex;
+    justify-content: center;
+    margin-right: 500px ;
+}

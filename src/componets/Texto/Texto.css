@@ -1,0 +1,31 @@
+.texto {
+    color: rgb(15, 107, 10);
+    margin-top: 80px;
+    font-weight: 500;
+    display:flex;
+    justify-content: flex-start;
+    padding-left: 100px;
+    padding-right: 0px;
+    margin-left: 320px;
+    max-width: 100%;
+    scale: 130%;
+    margin-bottom: -37px;
+    margin-right: 0px;
+    
+          
+}
+
+.texto2 {
+    color: rgba(21, 173, 13, 0.754);
+    
+    font-weight: 500;
+    display:flex;
+    justify-content: flex-start;
+    padding-left: 100px;
+    padding-right: 0px;
+    margin-left: 530px;
+    max-width: 100%;
+    scale: 130%;
+    margin-bottom: -37px;
+    margin-right: 0px;
+}

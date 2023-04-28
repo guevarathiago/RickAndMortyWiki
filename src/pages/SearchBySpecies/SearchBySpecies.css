@@ -1,0 +1,10 @@
+.species-search {
+    margin-top: 50px;
+}
+
+.species-search select {
+  margin-bottom: -50px;
+    display: flex;
+    justify-content: center;
+    margin-right: 500px ;
+}

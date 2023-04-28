@@ -1,0 +1,39 @@
+.navbar ul {
+  background-color: rgb(117, 211, 24);
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  padding-right: 60px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  margin-bottom: -20px
+  }
+
+.navbar a {
+  font-weight: bold;
+  color: rgba(1, 1, 1, 0.769);
+  margin-left: 8px;
+  font-size: 11px;
+  text-decoration: none;
+}
+
+.navbar a:hover{
+  color: rgb(224, 242, 234);
+}
+
+.img {
+  
+  background-color:   rgb(117, 211, 24);
+  scale: 15%;
+  position:absolute;
+  left: -280px;
+  top: -105px;
+  
+
+
+  
+  
+
+}
