@@ -1,3 +1,3 @@
 # Try out Rick & Morty wiki on vercel
 
-===> (rick-and-morty-wiki-guevarathiago.vercel.app/) <===
+===> https://rick-and-morty-wiki-guevarathiago.vercel.app/ <===
